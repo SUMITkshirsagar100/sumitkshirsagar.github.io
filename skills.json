@@ -9,7 +9,7 @@
     },
     {
         "name": "Flutter",
-        "icon": "https://img.icons8.com/?size=512&id=7I3BjCqe9rjG&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000"
     },
     {
         "name": "HTML5",
@@ -29,15 +29,15 @@
     },
     {
         "name": "Express.js",
-        "icon": "https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000"
     },
     {
         "name": "Mongodb",
-        "icon": "https://img.icons8.com/?size=512&id=74402&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000"
     },
     {
         "name": "SQL",
-        "icon": "https://img.icons8.com/?size=512w&id=3767&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=102597&format=png&color=000000"
     },
     {
         "name": "Git VCS",
@@ -49,10 +49,10 @@
     },
     {
         "name": "Node.js",
-        "icon": "https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"
     },
     {
         "name": "React.js",
-        "icon": "https://img.icons8.com/?size=512&id=bzf0DqjXFHIW&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=bzf0DqjXFHIW&format=png&color=000000"
     }
 ]
