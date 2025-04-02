@@ -1,3 +1,3 @@
-# maityamit portfolio
+# Sumit kshirsagar portfolio
 
-# [https://maityamit.github.io/maityamit-portfolio/]
+# [https://sumitkshirsagar100.github.io/sumitkshirsagar.github.io/index.html]
